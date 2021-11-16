@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/defur/OneDrive/School/2021 Fall/CSI 2372 - Advanced Programming Concepts/TermProject/Bank.cpp
+iostream
+-
+stdio.h
+-
+fstream
+-
+cstring
+-
+stdlib.h
+-
+iomanip
+-
+Bank.h
+/mnt/c/Users/defur/OneDrive/School/2021 Fall/CSI 2372 - Advanced Programming Concepts/TermProject/Bank.h
+
+/mnt/c/Users/defur/OneDrive/School/2021 Fall/CSI 2372 - Advanced Programming Concepts/TermProject/Bank.h
+iostream
+-
+fstream
+-
+cstring
+-
+stdlib.h
+-
+iomanip
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Assignment3Q1.dir/A3_Q1.cpp.o -o Assignment3Q1 

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/defur/OneDrive/School/2021 Fall/CSI 2372 - Advanced Programming Concepts/Lab 3/main.cpp
+iostream
+-
+vector.h
+/cygdrive/c/Users/defur/OneDrive/School/2021 Fall/CSI 2372 - Advanced Programming Concepts/Lab 3/vector.h
+
+/cygdrive/c/Users/defur/OneDrive/School/2021 Fall/CSI 2372 - Advanced Programming Concepts/Lab 3/vector.h
+string
+-
+

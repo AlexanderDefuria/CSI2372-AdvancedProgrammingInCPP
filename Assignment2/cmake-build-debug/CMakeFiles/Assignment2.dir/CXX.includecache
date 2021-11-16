@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/defur/OneDrive/School/2021 Fall/CSI 2372 - Advanced Programming Concepts/Assignment2/A2_Q2_main.cpp
+iostream
+-
+

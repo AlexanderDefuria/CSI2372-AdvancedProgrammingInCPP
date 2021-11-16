@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Lab8.dir/Q3_main.cpp.o -o Lab8 

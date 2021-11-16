@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/defur/OneDrive/School/2021 Fall/CSI 2372 - Advanced Programming Concepts/Assignment3Q2/A3_Q2.cpp
+iostream
+-
+string
+-
+stdlib.h
+-
+Person.h
+/mnt/c/Users/defur/OneDrive/School/2021 Fall/CSI 2372 - Advanced Programming Concepts/Assignment3Q2/Person.h
+Organization.h
+/mnt/c/Users/defur/OneDrive/School/2021 Fall/CSI 2372 - Advanced Programming Concepts/Assignment3Q2/Organization.h
+University.h
+/mnt/c/Users/defur/OneDrive/School/2021 Fall/CSI 2372 - Advanced Programming Concepts/Assignment3Q2/University.h
+
+/mnt/c/Users/defur/OneDrive/School/2021 Fall/CSI 2372 - Advanced Programming Concepts/Assignment3Q2/Organization.h
+utility
+-
+Person.h
+/mnt/c/Users/defur/OneDrive/School/2021 Fall/CSI 2372 - Advanced Programming Concepts/Assignment3Q2/Person.h
+
+/mnt/c/Users/defur/OneDrive/School/2021 Fall/CSI 2372 - Advanced Programming Concepts/Assignment3Q2/Person.h
+iostream
+-
+
+/mnt/c/Users/defur/OneDrive/School/2021 Fall/CSI 2372 - Advanced Programming Concepts/Assignment3Q2/University.h
+

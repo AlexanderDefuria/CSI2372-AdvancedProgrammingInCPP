@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Assignment3Q2.dir/A3_Q2.cpp.o CMakeFiles/Assignment3Q2.dir/Organization.cpp.o CMakeFiles/Assignment3Q2.dir/Person.cpp.o -o Assignment3Q2 

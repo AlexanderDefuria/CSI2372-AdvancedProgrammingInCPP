@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/TermProject.dir/Bank.cpp.o -o TermProject 

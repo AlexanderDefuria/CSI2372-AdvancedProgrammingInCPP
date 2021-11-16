@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Lab7.dir/main.cpp.o CMakeFiles/Lab7.dir/waterHeater.cpp.o CMakeFiles/Lab7.dir/House.cpp.o -o Lab7 
